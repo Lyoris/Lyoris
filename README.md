@@ -6,7 +6,7 @@
 <h1 align="center" style="color:#00FF00;">👾 Olá, eu sou <span style="color:#9F5FFF">Lyoris</span></h1>
 
 <p align="center">
-  <strong>💀 Hacker criativo, codificador de soluções e amante do caos bem organizado</strong>
+  <strong>💀 Desenvolvedor web, codificador de soluções e amante do caos bem organizado</strong>
 </p>
 
 ---
