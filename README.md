@@ -1,58 +1,27 @@
-<!-- BANNER SUPERIOR -->
+<!-- TÍTULO EM ESTILO TERMINAL COM ANIMAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Olá%2C+me+chamo+Lyoris!;Sou+desenvolvedor+Python%2C+HTML+e+CSS;Bem-vindo+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%24+Bem-vindo+ao+terminal+de+Lyoris...;_Desenvolvedor+Python+%2F+HTML+%2F+CSS;_Codificando+o+futuro+em+verde+neon+" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 Transformando ideias em código!</h1>
-
----
-
-## 🧰 Tecnologias e Ferramentas
+<h1 align="center" style="color:#00FF00;">👾 Olá, eu sou <span style="color:#9F5FFF">Lyoris</span></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <strong>💀 Hacker criativo, codificador de soluções e amante do caos bem organizado</strong>
 </p>
 
 ---
 
-## 📌 Projetos em destaque
-
-- 🎯 **Sistema de automação com Python** – Automatização de tarefas com Selenium e APIs
-- 🌐 **Portfólio Web** – HTML e CSS puros, com responsividade
-- 🎨 **Landing pages criativas** – Interface moderna, UX/UI intuitivo
-
----
-
-## 📈 Meus status no GitHub
+## ⚙️ Tech Stack (Arsenal de Batalha)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lyoris&show_icons=true&theme=midnight-purple&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyoris&layout=compact&theme=midnight-purple" height="160" />
+  <img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Git-00FF00?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🐍 Snake contribution graph
+## 🔮 Projeto em Destaque
 
-<p align="center">
-  <img src="https://github.com/Lyoris/Lyoris/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🌍 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.instagram.com/seu_usuario/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu_usuario/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="center">✨ “Código é poesia que resolve problemas.” ✨</h3>
