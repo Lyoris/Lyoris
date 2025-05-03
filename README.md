@@ -1,27 +1,33 @@
-<!-- TÍTULO EM ESTILO TERMINAL COM ANIMAÇÃO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%24+Bem-vindo+ao+terminal+de+Lyoris...;_Desenvolvedor+Python+%2F+HTML+%2F+CSS;_Codificando+o+futuro+em+verde+neon+" alt="Typing SVG" />
-</p>
+# Hello World, I'm Luiz, be very welcome!
 
-<h1 align="center" style="color:#00FF00;">👾 Olá, eu sou <span style="color:#9F5FFF">Lyoris</span></h1>
+<br/>
 
 <p align="center">
-  <strong>💀 Desenvolvedor web, codificador de soluções e amante do caos bem organizado</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizzhpp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Luiz's GitHub Stats" />
 </p>
-
----
-
-## ⚙️ Tech Stack (Arsenal de Batalha)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Git-00FF00?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzhpp&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+<br/>
 
-## 🔮 Projeto em Destaque
+<p align="center">
+  <img src="https://img.icons8.com/color/120/html-5--v1.png" width="80" alt="HTML5" />
+  <img src="https://img.icons8.com/color/120/css3.png" width="80" alt="CSS3" />
+  <img src="https://img.icons8.com/color/120/python--v1.png" width="80" alt="Python" />
+</p>
 
+<br/>
+
+<p align="center">
+  <a href="https://www.instagram.com/LuizX_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:luiz259fernando@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-fernando-5070b1867/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
